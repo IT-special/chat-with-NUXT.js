@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+# install application before start the project
+$ npm install SOCKET
+
 # install dependencies
 $ npm install
 
